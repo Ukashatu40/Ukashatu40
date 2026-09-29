@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering activity ribbon</title>
+  <desc id="desc">A conceptual animated-looking contribution ribbon representing continuous engineering work.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#155e75"/><stop offset="0.48" stop-color="#2dd4bf"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1f2937"/></pattern>
+  </defs>
+  <rect width="1200" height="230" rx="20" fill="#0b1118"/>
+  <rect x="16" y="16" width="1168" height="198" rx="16" fill="url(#grid)" opacity="0.55"/>
+  <path d="M55 150 C160 72 230 208 345 120 S550 64 650 146 S862 205 970 104 S1070 85 1145 135" fill="none" stroke="#1e293b" stroke-width="20" stroke-linecap="round"/>
+  <path d="M55 150 C160 72 230 208 345 120 S550 64 650 146 S862 205 970 104 S1070 85 1145 135" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-dasharray="1 22"/>
+  <g fill="#e2e8f0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="58" y="60" font-size="16" fill="#64748b">ACTIVITY / SIGNAL / CONTINUITY</text>
+    <text x="58" y="92" font-size="25">Build → test → integrate → ship</text>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Full-stack engineering system map</title>
+  <desc id="desc">Conceptual flow from product interface through API, data and asynchronous processing to infrastructure.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1f2937"/></pattern>
+    <filter id="soft"><feGaussianBlur stdDeviation="0.8"/></filter>
+  </defs>
+  <rect width="1200" height="260" rx="20" fill="#0b1118"/>
+  <rect x="18" y="18" width="1164" height="224" rx="14" fill="url(#grid)" opacity="0.5"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <g fill="#0f172a" stroke="#334155" stroke-width="2">
+      <rect x="50" y="86" width="180" height="88" rx="14"/>
+      <rect x="280" y="86" width="180" height="88" rx="14"/>
+      <rect x="510" y="86" width="180" height="88" rx="14"/>
+      <rect x="740" y="86" width="180" height="88" rx="14"/>
+      <rect x="970" y="86" width="180" height="88" rx="14"/>
+    </g>
+    <g fill="#e2e8f0" font-size="18" text-anchor="middle">
+      <text x="140" y="118">PRODUCT</text><text x="140" y="145">UI</text>
+      <text x="370" y="118">API</text><text x="370" y="145">BOUNDARY</text>
+      <text x="600" y="118">DATA</text><text x="600" y="145">INVARIANTS</text>
+      <text x="830" y="118">ASYNC</text><text x="830" y="145">WORK</text>
+      <text x="1060" y="118">DELIVERY</text><text x="1060" y="145">/ OPS</text>
+    </g>
+    <g stroke="#2dd4bf" stroke-width="3" fill="none">
+      <path d="M230 130H280"/><path d="M460 130H510"/><path d="M690 130H740"/><path d="M920 130H970"/>
+    </g>
+    <g fill="#2dd4bf">
+      <circle cx="230" cy="130" r="5"/><circle cx="460" cy="130" r="5"/><circle cx="690" cy="130" r="5"/><circle cx="920" cy="130" r="5"/>
+    </g>
+    <text x="50" y="54" fill="#64748b" font-size="16">SYSTEMS, NOT JUST SCREENS</text>
+  </g>
+</svg>
