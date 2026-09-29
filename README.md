@@ -1,138 +1,257 @@
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
+
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="200">
+      <img
+        src="https://images.weserv.nl/?url=github.com/Ukashatu40.png&w=180&h=180&fit=cover&mask=circle"
+        alt="Ukashatu Abdullahi"
+        width="170"
+      />
+    </td>
+
+    <td align="left" valign="middle">
+      <h1>Ukashatu Abdullahi</h1>
+
+      <img
+        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=5000&pause=1800&center=false&vCenter=true&width=600&height=40&lines=Full-Stack+Software+Engineer;Backend+Systems+%26+API+Engineering;Financial+%26+Data-Intensive+Systems;Distributed+Workflows+%26+Infrastructure"
+        alt="Typing animation"
+      />
+
+      <br/>
+
+      <sub>
+        I build full-stack products with a strong focus on backend systems,
+        APIs, data, reliability and infrastructure.
+      </sub>
+    </td>
+
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-<img src="./assets/hero.gif" alt="Animated introduction for Ukashatu Abdullahi" width="100%" />
+<a href="https://github.com/Ukashatu40">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ukashatu-abdullahi-17b4312b0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:ukasha.abdul.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-# UKASHATU ABDULLAHI
+<br/><br/>
 
-### Software Engineer · Full-Stack · Backend / Systems
+<img src="https://img.shields.io/github/followers/Ukashatu40?style=flat-square&label=Followers" />
+<img src="https://img.shields.io/github/stars/Ukashatu40?style=flat-square&label=Stars" />
+<img src="https://komarev.com/ghpvc/?username=Ukashatu40&style=flat-square&label=Profile+Views" />
 
-Building complete software products across interfaces, APIs, data, and infrastructure.
+</div>
 
-<p>
-  <a href="https://github.com/Ukashatu40">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/ukashatu-abdullahi-17b4312b0/">LinkedIn</a> ·
-  <a href="mailto:ukasha.abdul.dev@gmail.com">Email</a>
+<br/>
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+<h2 align="center">Tech Stack</h2>
+
+<table align="center" border="0">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,java,python&perline=8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring&perline=8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perline=8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right"><b>Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&perline=8" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="right"><b>Infrastructure</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,git,aws&perline=8" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                    SELECTED WORK                          -->
+<!-- ========================================================= -->
+
+<h2 align="center">Selected Work</h2>
+
+<div align="center">
+
+<a href="https://github.com/Ukashatu40/double-entry-accounting-ledger-system">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Ukashatu40&repo=double-entry-accounting-ledger-system&theme=github_dark&hide_border=true"
+    width="47%"
+  />
+</a>
+
+<a href="https://github.com/Ukashatu40/payment-orchestration-engine">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Ukashatu40&repo=payment-orchestration-engine&theme=github_dark&hide_border=true"
+    width="47%"
+  />
+</a>
+
+<br/>
+
+<a href="https://github.com/Ukashatu40/event-driven-notification-engine">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Ukashatu40&repo=event-driven-notification-engine&theme=github_dark&hide_border=true"
+    width="47%"
+  />
+</a>
+
+<a href="https://github.com/Ukashatu40/ratel-financial-platform">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Ukashatu40&repo=ratel-financial-platform&theme=github_dark&hide_border=true"
+    width="47%"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Ukashatu40?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-111111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-</div>
+<br/>
 
----
+<!-- ========================================================= -->
+<!--                  ENGINEERING FOCUS                        -->
+<!-- ========================================================= -->
 
-## What I Build
+<h2 align="center">Engineering Focus</h2>
 
-I work across the full path from product interface to backend systems. My strongest technical focus is backend and systems engineering, but the products I build increasingly include the frontend application, API layer, data model, authentication, infrastructure, and delivery workflow as one system.
+<p align="center">
+  APIs · Distributed Systems · Data Integrity · Event-Driven Architecture ·
+  Authentication · Idempotency · Concurrency · Caching · Observability · CI/CD
+</p>
 
-I am particularly interested in software where correctness, reliability, security, and operational behavior matter: financial workflows, API orchestration, event-driven systems, data-heavy applications, and production-oriented web products.
+<br/>
 
-<div align="center">
-<img src="./assets/engineering-system.svg" alt="Conceptual full-stack system flow from interface to API, data, asynchronous processing, and infrastructure" width="92%" />
-</div>
+<!-- ========================================================= -->
+<!--                   GITHUB ANALYTICS                        -->
+<!-- ========================================================= -->
 
-## Engineering Focus
-
-| Product engineering | Backend & systems | Data & infrastructure |
-|---|---|---|
-| Full-stack web applications | API architecture | PostgreSQL / Prisma / TypeORM |
-| React / Next.js interfaces | State machines & workflow logic | Redis / queues / caching |
-| Authentication & authorization | Idempotency & concurrency | Docker / Linux / deployment |
-| Real product workflows | Event-driven processing | Observability / CI/CD |
-
-## Selected Systems
-
-### 01 · Double-Entry Accounting Ledger
-
-**`double-entry-accounting-ledger-system`**
-
-A TypeScript/NestJS financial ledger centered on double-entry accounting, immutable auditability, advisory-lock-based concurrency control, idempotent state changes, multi-currency processing, reporting, and role-based API access. The repository also documents a PostgreSQL schema, OpenAPI contract, database triggers, testing strategy, and deployment flow.
-
-`NestJS` `Fastify` `PostgreSQL` `Prisma` `SHA-256` `Docker`
-
-[Repository](https://github.com/Ukashatu40/double-entry-accounting-ledger-system)
-
-### 02 · Payment Orchestration Engine
-
-**`payment-orchestration-engine`**
-
-A NestJS/Fastify payment orchestration backend with gateway adapters, multi-criteria routing, circuit breakers, idempotency, transaction state transitions, webhook processing, reconciliation, and failure-scenario testing across multiple payment providers. The repository documents the architecture and explicitly covers replay protection, duplicate events, concurrent races, and gateway failure behavior.
-
-`TypeScript` `NestJS` `Fastify` `PostgreSQL` `TypeORM` `Docker`
-
-[Repository](https://github.com/Ukashatu40/payment-orchestration-engine)
-
-### 03 · Event-Driven Notification Engine
-
-**`event-driven-notification-engine`**
-
-An event-driven notification platform using Kafka for event streaming, RabbitMQ for delivery queues, Redis for caching and distributed controls, PostgreSQL for state and audit data, and Prometheus/Grafana for observability. It also documents JWT/RBAC, encrypted PII, provider failover, DLQs, real-time operational analytics, and end-to-end testing.
-
-`TypeScript` `NestJS` `Kafka` `RabbitMQ` `Redis` `PostgreSQL` `Docker`
-
-[Repository](https://github.com/Ukashatu40/event-driven-notification-engine)
-
-### 04 · Ratel Financial Platform
-
-**`ratel-financial-platform`**
-
-A NestJS/Fastify backend with PostgreSQL/Prisma, Redis-backed queues and throttling, JWT/Passport authentication, Swagger, health checks, OpenTelemetry/Prometheus instrumentation, S3 integration, file scanning, logging, and unit/integration/e2e test configurations. The repository currently has substantial implementation structure but minimal public-facing repository metadata, making documentation and GitHub presentation a clear improvement area.
-
-`TypeScript` `NestJS` `Fastify` `Prisma` `PostgreSQL` `Redis` `AWS S3`
-
-[Repository](https://github.com/Ukashatu40/ratel-financial-platform)
-
-## Stack
-
-### Core
-
-`TypeScript` · `JavaScript` · `NestJS` · `Node.js` · `React` · `Next.js` · `PostgreSQL` · `Docker` · `Git`
-
-### Working With
-
-`Java` · `Spring Boot` · `Python` · `MongoDB` · `Redis` · `WebSockets` · `CI/CD` · `Linux` · `AWS`
-
-### Engineering Practices
-
-`REST APIs` · `Authentication` · `Authorization` · `RBAC` · `Idempotency` · `Concurrency Control` · `Event-Driven Architecture` · `Queues` · `Caching` · `Observability` · `Testing`
-
-## GitHub Activity
-
-The contribution calendar below is GitHub's own profile activity. I keep the custom README analytics intentionally compact so activity supports the engineering story instead of replacing it.
-
-<div align="center">
-<img src="./assets/github-stats.svg" alt="GitHub profile activity summary" width="94%" />
-</div>
-
-## Contribution Visualization
-
-<div align="center">
-<img src="./assets/contribution-ribbon.svg" alt="Engineering activity ribbon visualization" width="94%" />
-</div>
-
-The custom visual above is deliberately supplementary. GitHub's native contribution calendar remains the source of truth for activity history.
-
-## Engineering Notes
-
-I like systems that make important behavior explicit in code: state transitions instead of hidden mutations, database constraints instead of assumptions, idempotency around externally-triggered operations, observable failure paths, and tests that exercise concurrency and integration boundaries.
-
-The repositories above already contain examples of these patterns, including database-level immutability, advisory locks, transaction state machines, HMAC validation, deduplication, circuit breakers, asynchronous delivery, deployment configuration, and architecture decision records.
-
-## Currently Building
-
-A growing portfolio of full-stack software systems where the frontend, API, database, infrastructure, and operational concerns are considered together.
-
-## Connect
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-<a href="https://github.com/Ukashatu40">GitHub</a> ·
-<a href="https://www.linkedin.com/in/ukashatu-abdullahi-17b4312b0/">LinkedIn</a> ·
-<a href="mailto:ukasha.abdul.dev@gmail.com">Email</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Ukashatu40&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github"
+  width="48%"
+/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=Ukashatu40&theme=github-dark&hide_border=true"
+  width="48%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukashatu40&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+  width="42%"
+/>
 
 </div>
 
+<br/>
+
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION ACTIVITY                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">Contribution Activity</h2>
+
 <div align="center">
 
-<img src="./assets/footer-grid.svg" alt="Abstract technical grid footer" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ukashatu40&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity"
+  width="96%"
+/>
 
-<sub>Software is the artifact. Engineering is the discipline behind it.</sub>
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION SNAKE                       -->
+<!-- ========================================================= -->
+
+<h2 align="center">Contribution Snake</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ukashatu40/Ukashatu40/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Ukashatu40/Ukashatu40/output/github-snake.svg"
+  />
+
+<img
+    src="https://raw.githubusercontent.com/Ukashatu40/Ukashatu40/output/github-snake-dark.svg"
+    alt="GitHub contribution snake"
+    width="96%"
+  />
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ========================================================= -->
+<!--                         FOOTER                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer"
+  width="100%"
+/>
+
+<sub>
+  Building software across the interface, API, data and infrastructure.
+</sub>
 
 </div>
