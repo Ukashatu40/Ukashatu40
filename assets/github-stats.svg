@@ -9,7 +9,7 @@
 <rect x="60" y="82" width="240" height="116" rx="16"/><rect x="330" y="82" width="240" height="116" rx="16"/><rect x="600" y="82" width="240" height="116" rx="16"/><rect x="870" y="82" width="270" height="116" rx="16"/>
 </g>
 <g text-anchor="middle">
-<text x="180" y="126" fill="#2dd4bf" font-size="39" font-weight="800">76</text><text x="180" y="159" fill="#cbd5e1" font-size="16">public repositories</text>
+<text x="180" y="126" fill="#2dd4bf" font-size="39" font-weight="800">77</text><text x="180" y="159" fill="#cbd5e1" font-size="16">public repositories</text>
 <text x="450" y="126" fill="#60a5fa" font-size="39" font-weight="800">5</text><text x="450" y="159" fill="#cbd5e1" font-size="16">followers</text>
 <text x="720" y="126" fill="#f59e0b" font-size="39" font-weight="800">7</text><text x="720" y="159" fill="#cbd5e1" font-size="16">following</text>
 <text x="1005" y="124" fill="#f8fafc" font-size="26" font-weight="700">Activity is evidence</text><text x="1005" y="157" fill="#94a3b8" font-size="14">refreshed from GitHub API</text>
